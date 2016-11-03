@@ -1,7 +1,7 @@
 # arduino-max7219-led-interactive-scrolling-text-display
 An interactive scrolling text display sketch for Arduino and MAX7219 8x8 LED display modules.
  
-This is the code I use to control the MAX7219 8x8 LED modules from my Chinese "Geekcreit"-brand Arduino clone.
+This is the code I use to control the MAX7219 8x8 LED modules from my Chinese "Geekcreit" brand Arduino clone.
  
 The first module is connected to the Uno like this:
  
